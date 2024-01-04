@@ -12,3 +12,4 @@
 - 2024-01-03 13:27: chore: log today's work
 - 2024-01-03 21:45: docs: daily progress note
 - 2024-01-04 23:51: docs: add learning notes
+- 2024-01-04 18:56: docs: daily standup notes
