@@ -61,3 +61,4 @@
 - 2024-01-15 16:06: docs: add learning notes
 - 2024-01-15 16:50: docs: add learning notes
 - 2024-01-15 21:02: docs: add learning notes
+- 2024-01-15 22:00: docs: daily standup notes
