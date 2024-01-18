@@ -72,3 +72,4 @@
 - 2024-01-17 17:48: docs: daily progress note
 - 2024-01-17 09:09: chore: activity update
 - 2024-01-18 17:59: docs: daily standup notes
+- 2024-01-18 13:48: docs: add learning notes
