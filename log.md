@@ -78,3 +78,4 @@
 - 2024-01-19 20:08: docs: add learning notes
 - 2024-01-19 21:47: chore: sync notes
 - 2024-01-20 23:07: chore: sync notes
+- 2024-01-20 22:38: docs: add learning notes
