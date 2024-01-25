@@ -99,3 +99,4 @@
 - 2024-01-24 22:58: chore: log today's work
 - 2024-01-24 20:40: chore: sync notes
 - 2024-01-24 14:11: chore: log today's work
+- 2024-01-25 12:05: docs: daily standup notes
