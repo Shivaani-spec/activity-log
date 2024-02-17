@@ -191,3 +191,4 @@
 - 2024-02-17 19:28: docs: update progress tracker
 - 2024-02-17 10:36: docs: update progress tracker
 - 2024-02-17 22:09: docs: daily progress note
+- 2024-02-17 15:27: docs: add learning notes
