@@ -371,3 +371,4 @@
 - 2024-04-03 13:01: docs: update progress tracker
 - 2024-04-04 18:58: docs: update progress tracker
 - 2024-04-04 11:06: docs: update progress tracker
+- 2024-04-04 09:27: chore: sync notes
