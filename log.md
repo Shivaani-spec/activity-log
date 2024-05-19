@@ -535,3 +535,4 @@
 - 2024-05-19 16:05: chore: update activity log
 - 2024-05-19 12:53: chore: log today's work
 - 2024-05-19 23:14: chore: update activity log
+- 2024-05-19 19:10: docs: add learning notes
