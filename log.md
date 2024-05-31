@@ -587,3 +587,4 @@
 - 2024-05-31 20:56: chore: activity update
 - 2024-05-31 23:34: chore: sync notes
 - 2024-05-31 10:29: chore: daily checkpoint
+- 2024-05-31 13:24: docs: add learning notes
