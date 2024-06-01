@@ -591,3 +591,4 @@
 - 2024-05-31 11:58: docs: daily progress note
 - 2024-06-01 12:42: chore: update activity log
 - 2024-06-01 20:09: chore: daily checkpoint
+- 2024-06-01 14:09: docs: add learning notes
