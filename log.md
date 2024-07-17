@@ -766,3 +766,4 @@
 - 2024-07-16 21:05: docs: add learning notes
 - 2024-07-16 18:39: chore: sync notes
 - 2024-07-16 16:28: chore: sync notes
+- 2024-07-17 14:22: docs: daily standup notes
