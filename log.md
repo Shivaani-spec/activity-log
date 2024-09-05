@@ -963,3 +963,4 @@
 - 2024-09-05 15:35: docs: progress update
 - 2024-09-05 20:48: docs: add learning notes
 - 2024-09-05 19:51: chore: sync notes
+- 2024-09-05 20:37: docs: add learning notes
