@@ -1051,3 +1051,4 @@
 - 2024-09-24 10:09: chore: log today's work
 - 2024-09-24 13:15: chore: log today's work
 - 2024-09-24 14:50: docs: update progress tracker
+- 2024-09-24 19:37: docs: add learning notes
