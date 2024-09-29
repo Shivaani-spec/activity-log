@@ -1074,3 +1074,4 @@
 - 2024-09-28 17:40: docs: daily progress note
 - 2024-09-28 09:55: docs: progress update
 - 2024-09-29 13:27: docs: progress update
+- 2024-09-29 23:56: docs: add learning notes
