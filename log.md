@@ -1446,3 +1446,4 @@
 - 2024-12-25 22:22: chore: log today's work
 - 2024-12-26 11:15: chore: log today's work
 - 2024-12-26 20:33: chore: log today's work
+- 2024-12-26 16:58: docs: add learning notes
