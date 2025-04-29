@@ -1950,3 +1950,4 @@
 - 2025-04-28 17:38: docs: update progress tracker
 - 2025-04-28 16:39: docs: daily progress note
 - 2025-04-29 21:12: docs: progress update
+- 2025-04-29 22:44: docs: add learning notes
