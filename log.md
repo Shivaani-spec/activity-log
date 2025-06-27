@@ -2183,3 +2183,4 @@
 - 2025-06-26 14:00: chore: activity update
 - 2025-06-26 11:15: docs: update progress tracker
 - 2025-06-26 10:20: docs: progress update
+- 2025-06-27 22:12: docs: add learning notes
