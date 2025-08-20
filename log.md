@@ -2423,3 +2423,4 @@
 - 2025-08-20 16:24: chore: sync notes
 - 2025-08-20 23:03: chore: daily checkpoint
 - 2025-08-20 12:55: chore: activity update
+- 2025-08-20 22:41: docs: add learning notes
