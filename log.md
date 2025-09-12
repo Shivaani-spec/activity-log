@@ -2525,3 +2525,4 @@
 - 2025-09-11 10:17: docs: progress update
 - 2025-09-12 15:01: docs: update progress tracker
 - 2025-09-12 21:45: chore: daily checkpoint
+- 2025-09-12 18:16: docs: add learning notes
