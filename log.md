@@ -2604,3 +2604,4 @@
 - 2025-10-05 14:31: docs: progress update
 - 2025-10-05 19:40: docs: daily progress note
 - 2025-10-06 19:58: chore: activity update
+- 2025-10-06 20:42: docs: add learning notes
