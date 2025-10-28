@@ -2695,3 +2695,4 @@
 - 2025-10-27 11:49: docs: update progress tracker
 - 2025-10-27 14:21: docs: daily standup notes
 - 2025-10-27 15:24: docs: daily standup notes
+- 2025-10-28 12:43: docs: add learning notes
