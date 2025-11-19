@@ -2790,3 +2790,4 @@
 - 2025-11-17 22:42: chore: update activity log
 - 2025-11-18 14:27: docs: progress update
 - 2025-11-18 14:22: chore: log today's work
+- 2025-11-19 09:25: docs: add learning notes
