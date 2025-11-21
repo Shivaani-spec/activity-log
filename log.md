@@ -2803,3 +2803,4 @@
 - 2025-11-21 22:32: chore: daily checkpoint
 - 2025-11-21 10:52: docs: progress update
 - 2025-11-21 14:30: chore: daily checkpoint
+- 2025-11-21 22:32: docs: add learning notes
