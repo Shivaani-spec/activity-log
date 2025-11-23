@@ -2810,3 +2810,4 @@
 - 2025-11-22 16:22: chore: activity update
 - 2025-11-22 22:56: docs: update progress tracker
 - 2025-11-22 16:41: chore: daily checkpoint
+- 2025-11-23 12:38: docs: add learning notes
