@@ -2875,3 +2875,4 @@
 - 2025-12-06 15:52: chore: sync notes
 - 2025-12-06 13:04: chore: sync notes
 - 2025-12-07 11:16: chore: activity update
+- 2025-12-07 21:07: docs: add learning notes
