@@ -2892,3 +2892,4 @@
 - 2025-12-11 22:56: docs: update progress tracker
 - 2025-12-11 17:41: docs: progress update
 - 2025-12-11 23:26: chore: sync notes
+- 2025-12-11 17:51: docs: add learning notes
