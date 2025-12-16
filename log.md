@@ -2913,3 +2913,4 @@
 - 2025-12-15 21:07: chore: daily checkpoint
 - 2025-12-15 16:55: chore: daily checkpoint
 - 2025-12-16 21:18: chore: update activity log
+- 2025-12-16 13:51: docs: add learning notes
