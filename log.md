@@ -2948,3 +2948,4 @@
 - 2025-12-24 21:27: docs: daily progress note
 - 2025-12-24 19:11: chore: activity update
 - 2025-12-25 19:16: chore: update activity log
+- 2025-12-25 11:10: docs: add learning notes
