@@ -3297,3 +3297,4 @@
 - 2026-03-21 14:49: docs: daily progress note
 - 2026-03-22 14:13: chore: daily checkpoint
 - 2026-03-22 22:03: chore: log today's work
+- 2026-03-22 11:40: docs: add learning notes
