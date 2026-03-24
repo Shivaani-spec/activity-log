@@ -3304,3 +3304,4 @@
 - 2026-03-23 18:26: chore: daily checkpoint
 - 2026-03-23 15:23: chore: daily checkpoint
 - 2026-03-24 12:17: chore: update activity log
+- 2026-03-24 21:55: docs: add learning notes
