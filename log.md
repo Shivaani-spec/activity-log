@@ -3447,3 +3447,4 @@
 - 2026-04-27 19:21: chore: activity update
 - 2026-04-27 16:18: chore: update activity log
 - 2026-04-28 17:25: chore: log today's work
+- 2026-04-28 16:14: docs: add learning notes
