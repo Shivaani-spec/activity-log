@@ -3591,3 +3591,4 @@
 - 2026-06-03 09:59: chore: daily checkpoint
 - 2026-06-04 21:01: chore: activity update
 - 2026-06-04 23:05: docs: progress update
+- 2026-06-05 15:39: docs: add learning notes
